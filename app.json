@@ -2,6 +2,6 @@
   "name": "VirtualStocks.io Server",
   "description": "Backend server for virtualstocks.io that polls for market data",
   "repository": "https://github.com/virtualstocks/virtualstocks.io-heroku",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "image": "heroku/nodejs"
 }
